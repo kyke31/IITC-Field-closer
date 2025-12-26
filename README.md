@@ -1,5 +1,8 @@
 # IITC Plugin: Field Closer Assistant
 
+![IITC](https://img.shields.io/badge/IITC-Plugin-blue.svg) ![License](https://img.shields.io/badge/License-GPL%203.0-green)
+
+
 **An intelligent planning tool for Ingress agents.**
 
 This IITC (Ingress Intel Total Conversion) plugin scans your current map view to identify strategic link opportunities. It exhaustively searches for "Field Closers" (links that create triangles) and "Open Links" (safe connections that don't cross existing links), providing a detailed, actionable list to help you build fields efficiently.
